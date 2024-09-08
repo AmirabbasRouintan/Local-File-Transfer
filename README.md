@@ -29,4 +29,3 @@ To install this application, clone the repository or download the files. Make su
 ## Contributing 🤝
 Contributions are welcome! If you'd like to enhance this project, please fork the repository, make your changes, and submit a pull request. Feedback and suggestions are always appreciated! 👍
 
-![File Transfer App Screenshot](https://via.placeholder.com/450x200)  <!-- Replace with actual screenshot link -->
