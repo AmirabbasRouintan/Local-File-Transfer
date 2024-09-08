@@ -1,4 +1,4 @@
-# File Transfer App 📁✨
+# File Transfer App 📁
 This is a Python application that allows users to easily send and receive files over a local network using a simple and intuitive graphical interface built with Tkinter.
 
 ## Features 💡
